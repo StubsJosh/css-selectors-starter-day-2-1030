@@ -830,7 +830,7 @@ tfoot{
     select the first div in the border styling section using the ID, tag name and direct descendant selectors
   */
   /* ----- */
-#boarders > div{
+#borders > div{
     width: 300px;
     height: 300px;
     margin: 16px auto;
@@ -939,7 +939,7 @@ tfoot{
     select the image in the pseudo-elements section using the ID, child/descendant, and tag name selectors
 */
 /* ----- */
-#pseduo-els img{
+#pseudo-els img{
     width: 200px;
     height: 200px;
     margin: 0 auto;
